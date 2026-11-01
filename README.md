@@ -1,16 +1,44 @@
-# React + Vite
+# KRIYA — AI-Powered Learning Platform
+ A modern learning platform designed to make education personalized, interactive, and accessible.
+ 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About KRIYA
 
-Currently, two official plugins are available:
+**KRIYA** is an AI-powered learning platform built to transform the way students learn. It aims to provide personalized learning experiences, intelligent academic assistance, interactive assessments, and performance tracking in one place.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Whether you're learning a new subject, improving your skills, or tracking your academic progress, KRIYA helps make your learning journey more organized and effective.
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎯 **Personalized Learning** — Learning experiences tailored to individual goals.
+- 🤖 **AI Learning Assistant** — Intelligent support for understanding concepts and solving doubts.
+- 📚 **Course Management** — Organized courses and learning resources.
+- 📝 **Interactive Quizzes** — Practice questions and assessments.
+- 📊 **Progress Tracking** — Monitor learning activities and performance.
+- 🧠 **Adaptive Learning** — Identify knowledge gaps and improvement areas.
+- 🏆 **Learning Goals** — Track milestones and achievements.
+- 📱 **Responsive Design** — Accessible across desktop, tablet, and mobile devices.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The technology stack may evolve as the project develops.
+
+## 🎯 Our Vision
+
+We believe every student learns differently. KRIYA aims to use technology and AI to create a smarter, more flexible, and student-centered educational experience.
+
+## 🌱 Future Goals
+
+- Advanced AI-powered recommendations
+- Personalized study plans
+- Smart performance analytics
+- More interactive learning tools
+- Improved student and educator experiences
+
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome. Feel free to fork the repository, create a feature branch, and submit a pull request.
+
+## 📌 Project Status
+
+KRIYA is under active development. New features and improvements are planned as the platform evolves.
